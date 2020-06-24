@@ -1,0 +1,13 @@
+{
+  "name": "WhatsApp dark mode",
+  "version": "1.0",
+  "description": "Enables WhatsApp web native dark mode",
+  "manifest_version": 2,
+
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["https://web.whatsapp.com/*"]
+    }
+  ]
+}
