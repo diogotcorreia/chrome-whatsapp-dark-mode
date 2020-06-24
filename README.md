@@ -11,3 +11,12 @@ All this extension does it automatically add that class when the page loads.
 
 WhatsApp web dark mode is still not complete (that's why it's not available from the UI yet).
 Some parts of the app might not have a dark theme yet.
+
+## Installation
+
+1. Download or clone this repository
+2. Go to `chrome://extensions`
+3. Enable Developer Mode if you haven't already
+4. Click "Load unpacked"
+5. Select the folder you've just downloaded
+6. Enjoy :D
