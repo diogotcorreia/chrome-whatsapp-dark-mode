@@ -10,4 +10,4 @@ All this extension does it automatically add that class when the page loads.
 ## Limitations
 
 WhatsApp web dark mode is still not complete (that's why it's not available from the UI yet).
-Some parts of the app (e.g. the loading menu) might not have a dark theme yet.
+Some parts of the app might not have a dark theme yet.
